@@ -1,7 +1,7 @@
 # Arbitus
 
 [![crates.io](https://img.shields.io/crates/v/arbitus.svg)](https://crates.io/crates/arbitus)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)](LICENSE)
 [![CI](https://github.com/arbitusgateway/arbitus/actions/workflows/ci.yml/badge.svg)](https://github.com/arbitusgateway/arbitus/actions/workflows/ci.yml)
 
 Open-source firewall for MCP tool calls. Arbitus sits between AI agents and MCP servers, then blocks secret leaks, dangerous tools, runaway loops, and unapproved actions before requests reach upstream.
@@ -226,4 +226,4 @@ cargo test --test http_gateway         # Single integration test file
 
 ## License
 
-[MIT](LICENSE)
+[AGPL-3.0](LICENSE)
