@@ -6,7 +6,7 @@ description = "Security proxy for MCP (Model Context Protocol) — auth, rate li
 homepage = "https://arbitus-gateway.xyz"
 documentation = "https://arbitus-gateway.xyz/docs"
 repository = "https://github.com/arbitusgateway/arbitus"
-license = "MIT"
+license = "AGPL-3.0-or-later"
 keywords = ["mcp", "proxy", "security", "ai", "gateway"]
 categories = ["network-programming", "authentication"]
 
